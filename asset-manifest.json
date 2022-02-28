@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hyundo/static/css/main.9a937b9f.chunk.css",
-    "main.js": "/hyundo/static/js/main.87131356.chunk.js",
-    "main.js.map": "/hyundo/static/js/main.87131356.chunk.js.map",
+    "main.js": "/hyundo/static/js/main.5f02efe1.chunk.js",
+    "main.js.map": "/hyundo/static/js/main.5f02efe1.chunk.js.map",
     "runtime-main.js": "/hyundo/static/js/runtime-main.d59a0356.js",
     "runtime-main.js.map": "/hyundo/static/js/runtime-main.d59a0356.js.map",
     "static/js/2.d1043ec0.chunk.js": "/hyundo/static/js/2.d1043ec0.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d59a0356.js",
     "static/js/2.d1043ec0.chunk.js",
     "static/css/main.9a937b9f.chunk.css",
-    "static/js/main.87131356.chunk.js"
+    "static/js/main.5f02efe1.chunk.js"
   ]
 }
