@@ -186,7 +186,6 @@ class App extends Component {
                 <h1 className="panel-cover__title panel-title">Hyundo Lee</h1>
                 <hr className="panel-cover__divider"/>
                 <p className="panel-cover__description">작가</p>
-                <p className="panel-cover__description"><a href="https://www.mois.go.kr">행정안전부</a> 소속</p>
                 <p className="panel-cover__description">고려대학교 행정전문대학원 석사과정 재학</p>
                 <hr className="panel-cover__divider panel-cover__divider--secondary"/>
                 <div className="navigation-wrapper">
